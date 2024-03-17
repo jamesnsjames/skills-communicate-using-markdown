@@ -1,7 +1,8 @@
 # welcome my friend
 
 
-![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png "Yaktocat")
+<img src="https://octodex.github.com/images/yaktocat.png" alt="Yaktocat" width="100" height="100">
+
 
 
 
